@@ -1,0 +1,32 @@
+C:\Cursos\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Orquesta\Orquesta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cursos\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Orquesta\Orquesta\bin\Debug\Orquesta.exe
+C:\Cursos\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+C:\Cursos\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Orquesta\Orquesta\obj\x86\Debug\Orquesta.exe
+C:\Cursos\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Orquesta\Orquesta\obj\x86\Debug\Orquesta.pdb
+H:\Cursos En desarrollo\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Practicas\Orquesta\Orquesta\obj\x86\Debug\Orquesta.exe
+H:\Cursos En desarrollo\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Practicas\Orquesta\Orquesta\obj\x86\Debug\Orquesta.pdb
+H:\Cursos En desarrollo\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Practicas\Orquesta\Orquesta\bin\Debug\Orquesta.exe
+H:\Cursos En desarrollo\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Practicas\Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+H:\Cursos En desarrollo\CICE - Máster .NET\PPTX\3 - Aplicaciones WEB con C#\Practicas\Orquesta\Orquesta\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\CX\Cursos En desarrollo\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\obj\x86\Debug\Orquesta.exe
+H:\CX\Cursos En desarrollo\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\obj\x86\Debug\Orquesta.pdb
+H:\CX\Cursos En desarrollo\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\bin\Debug\Orquesta.exe
+H:\CX\Cursos En desarrollo\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+C:\Users\Antonio\Documents\Cursos\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\obj\x86\Debug\Orquesta.exe
+C:\Users\Antonio\Documents\Cursos\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\obj\x86\Debug\Orquesta.pdb
+C:\Users\Antonio\Documents\Cursos\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\bin\Debug\Orquesta.exe
+C:\Users\Antonio\Documents\Cursos\IT Formacion - Defensa - Desarrollo Web VS 2010\Demos y Practicas\Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+C:\Users\Curso\Desktop\Fundamentos de desarrollo de software\Demos y Practicas\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.exe
+C:\Users\Curso\Desktop\Fundamentos de desarrollo de software\Demos y Practicas\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.pdb
+C:\Users\Curso\Desktop\Fundamentos de desarrollo de software\Demos y Practicas\2.1 - Orquesta\Orquesta\bin\Debug\Orquesta.exe
+C:\Users\Curso\Desktop\Fundamentos de desarrollo de software\Demos y Practicas\2.1 - Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+C:\Users\Curso\Desktop\Fundamentos de desarrollo de software\Demos y Practicas\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.csprojResolveAssemblyReference.cache
+D:\Cursos\La Salle\1 - Fundamentos de desarrollo de software\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.exe
+D:\Cursos\La Salle\1 - Fundamentos de desarrollo de software\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.pdb
+D:\Cursos\La Salle\1 - Fundamentos de desarrollo de software\2.1 - Orquesta\Orquesta\bin\Debug\Orquesta.exe
+D:\Cursos\La Salle\1 - Fundamentos de desarrollo de software\2.1 - Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+D:\Cursos\La Salle\1 - Fundamentos de desarrollo de software\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\Orquesta\bin\Debug\Orquesta.exe
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.exe
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\Orquesta\obj\x86\Debug\Orquesta.pdb

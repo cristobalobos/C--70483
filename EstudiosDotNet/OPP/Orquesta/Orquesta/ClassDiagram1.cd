@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Orquesta.Cuerda" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Cuerda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.ConArco" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuerda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.SinArco" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuerda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Violin" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuerda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Chelo" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuerda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Guitarra" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuerda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Contrabajo" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuerda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Instrumento" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAIAAAEAAIAAAAAACAAkAAAAAAAEAAAAAIQAAA=</HashCode>
+      <FileName>Instrumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Percusion" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Baquetas" Collapsed="true">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Teclas" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Mano" Collapsed="true">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Timbal" Collapsed="true">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Marimba" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Piano" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Clavicordio" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Congas" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Bongos" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Program" Collapsed="true">
+    <Position X="27.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Viento" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Viento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Trompeta" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Viento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orquesta.Cuerno" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Viento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

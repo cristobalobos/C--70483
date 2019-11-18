@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Aplicacion Propiedades\Aplicacion Propiedades\bin\Debug\Aplicacion Propiedades.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Aplicacion Propiedades\Aplicacion Propiedades\bin\Debug\Aplicacion Propiedades.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Aplicacion Propiedades\Aplicacion Propiedades\bin\Debug\Aplicacion Propiedades.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Aplicacion Propiedades\Aplicacion Propiedades\obj\Debug\Aplicacion Propiedades.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Aplicacion Propiedades\Aplicacion Propiedades\obj\Debug\Aplicacion Propiedades.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Aplicacion Propiedades\Aplicacion Propiedades\obj\Debug\Aplicacion Propiedades.pdb

@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\ExplicitOperatorConversion\ExplicitOperatorConversion\bin\Debug\ExplicitOperatorConversion.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\ExplicitOperatorConversion\ExplicitOperatorConversion\bin\Debug\ExplicitOperatorConversion.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\ExplicitOperatorConversion\ExplicitOperatorConversion\bin\Debug\ExplicitOperatorConversion.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\ExplicitOperatorConversion\ExplicitOperatorConversion\obj\Debug\ExplicitOperatorConversion.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\ExplicitOperatorConversion\ExplicitOperatorConversion\obj\Debug\ExplicitOperatorConversion.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\ExplicitOperatorConversion\ExplicitOperatorConversion\obj\Debug\ExplicitOperatorConversion.pdb

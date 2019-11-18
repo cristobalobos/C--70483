@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EventosModificadores\EventosModificadores\bin\Debug\EventosModificadores.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EventosModificadores\EventosModificadores\obj\Debug\EventosModificadores.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EventosModificadores\EventosModificadores\bin\Debug\EventosModificadores.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EventosModificadores\EventosModificadores\bin\Debug\EventosModificadores.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EventosModificadores\EventosModificadores\obj\Debug\EventosModificadores.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EventosModificadores\EventosModificadores\obj\Debug\EventosModificadores.pdb

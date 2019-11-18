@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AsBase\AsBase\bin\Debug\AsBase.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AsBase\AsBase\bin\Debug\AsBase.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AsBase\AsBase\bin\Debug\AsBase.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AsBase\AsBase\obj\Debug\AsBase.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AsBase\AsBase\obj\Debug\AsBase.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AsBase\AsBase\obj\Debug\AsBase.pdb

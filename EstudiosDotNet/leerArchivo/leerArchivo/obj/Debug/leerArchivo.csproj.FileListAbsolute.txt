@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\leerArchivo\leerArchivo\bin\Debug\leerArchivo.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\leerArchivo\leerArchivo\bin\Debug\leerArchivo.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\leerArchivo\leerArchivo\bin\Debug\leerArchivo.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\leerArchivo\leerArchivo\obj\Debug\leerArchivo.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\leerArchivo\leerArchivo\obj\Debug\leerArchivo.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\leerArchivo\leerArchivo\obj\Debug\leerArchivo.pdb

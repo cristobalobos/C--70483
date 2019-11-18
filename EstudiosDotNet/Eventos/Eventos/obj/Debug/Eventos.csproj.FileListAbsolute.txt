@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\Eventos\Eventos\obj\Debug\Eventos.pdb

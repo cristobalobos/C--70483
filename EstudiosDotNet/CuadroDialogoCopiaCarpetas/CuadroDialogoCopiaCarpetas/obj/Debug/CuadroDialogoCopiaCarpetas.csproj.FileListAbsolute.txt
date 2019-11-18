@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CuadroDialogoCopiaCarpetas\CuadroDialogoCopiaCarpetas\bin\Debug\CuadroDialogoCopiaCarpetas.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CuadroDialogoCopiaCarpetas\CuadroDialogoCopiaCarpetas\bin\Debug\CuadroDialogoCopiaCarpetas.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CuadroDialogoCopiaCarpetas\CuadroDialogoCopiaCarpetas\bin\Debug\CuadroDialogoCopiaCarpetas.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CuadroDialogoCopiaCarpetas\CuadroDialogoCopiaCarpetas\obj\Debug\CuadroDialogoCopiaCarpetas.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CuadroDialogoCopiaCarpetas\CuadroDialogoCopiaCarpetas\obj\Debug\CuadroDialogoCopiaCarpetas.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CuadroDialogoCopiaCarpetas\CuadroDialogoCopiaCarpetas\obj\Debug\CuadroDialogoCopiaCarpetas.pdb

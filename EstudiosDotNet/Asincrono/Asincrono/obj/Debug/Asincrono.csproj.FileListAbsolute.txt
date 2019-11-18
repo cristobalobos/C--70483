@@ -1,0 +1,12 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Asincrono\Asincrono\bin\Debug\Asincrono.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Asincrono\Asincrono\bin\Debug\Asincrono.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Asincrono\Asincrono\bin\Debug\Asincrono.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Asincrono\Asincrono\obj\Debug\Asincrono.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Asincrono\Asincrono\obj\Debug\Asincrono.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Asincrono\Asincrono\bin\Debug\Asincrono.exe.config
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Asincrono\Asincrono\bin\Debug\Asincrono.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Asincrono\Asincrono\bin\Debug\Asincrono.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Asincrono\Asincrono\obj\Debug\Asincrono.csprojAssemblyReference.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Asincrono\Asincrono\obj\Debug\Asincrono.csproj.CoreCompileInputs.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Asincrono\Asincrono\obj\Debug\Asincrono.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Asincrono\Asincrono\obj\Debug\Asincrono.pdb

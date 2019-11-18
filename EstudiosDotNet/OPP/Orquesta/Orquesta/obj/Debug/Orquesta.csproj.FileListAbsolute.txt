@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\OPP\Orquesta\Orquesta\bin\Debug\Orquesta.exe.config
+c:\Users\cristobal lobos\documents\visual studio 2015\Projects\OPP\Orquesta\Orquesta\bin\Debug\Orquesta.exe
+c:\Users\cristobal lobos\documents\visual studio 2015\Projects\OPP\Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+c:\Users\cristobal lobos\documents\visual studio 2015\Projects\OPP\Orquesta\Orquesta\obj\Debug\Orquesta.csprojResolveAssemblyReference.cache
+c:\Users\cristobal lobos\documents\visual studio 2015\Projects\OPP\Orquesta\Orquesta\obj\Debug\Orquesta.exe
+c:\Users\cristobal lobos\documents\visual studio 2015\Projects\OPP\Orquesta\Orquesta\obj\Debug\Orquesta.pdb

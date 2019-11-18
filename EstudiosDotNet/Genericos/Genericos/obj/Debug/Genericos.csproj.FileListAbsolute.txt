@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Genericos\Genericos\bin\Debug\Genericos.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Genericos\Genericos\bin\Debug\Genericos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Genericos\Genericos\bin\Debug\Genericos.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Genericos\Genericos\obj\Debug\Genericos.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Genericos\Genericos\obj\Debug\Genericos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Genericos\Genericos\obj\Debug\Genericos.pdb

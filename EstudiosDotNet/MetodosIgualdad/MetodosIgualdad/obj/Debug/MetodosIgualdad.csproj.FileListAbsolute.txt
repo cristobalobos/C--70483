@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MetodosIgualdad\MetodosIgualdad\bin\Debug\MetodosIgualdad.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MetodosIgualdad\MetodosIgualdad\bin\Debug\MetodosIgualdad.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MetodosIgualdad\MetodosIgualdad\bin\Debug\MetodosIgualdad.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MetodosIgualdad\MetodosIgualdad\obj\Debug\MetodosIgualdad.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MetodosIgualdad\MetodosIgualdad\obj\Debug\MetodosIgualdad.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MetodosIgualdad\MetodosIgualdad\obj\Debug\MetodosIgualdad.pdb

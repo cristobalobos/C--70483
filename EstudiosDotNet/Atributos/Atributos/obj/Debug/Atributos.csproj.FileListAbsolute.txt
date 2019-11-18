@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Atributos\Atributos\bin\Debug\Atributos.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Atributos\Atributos\bin\Debug\Atributos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Atributos\Atributos\bin\Debug\Atributos.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Atributos\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Atributos\Atributos\obj\Debug\Atributos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Atributos\Atributos\obj\Debug\Atributos.pdb

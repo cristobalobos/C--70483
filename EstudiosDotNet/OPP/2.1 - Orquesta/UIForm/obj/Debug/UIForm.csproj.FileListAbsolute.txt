@@ -1,0 +1,16 @@
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\UIForm.exe.config
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\UIForm.exe
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\UIForm.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\BLL.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\ModeloDatos.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\DAL.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\BLL.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\ModeloDatos.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\bin\Debug\DAL.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\obj\Debug\UIForm.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\obj\Debug\UIForm.Form1.resources
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\obj\Debug\UIForm.Properties.Resources.resources
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\obj\Debug\UIForm.csproj.GenerateResource.Cache
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\obj\Debug\UIForm.exe
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\obj\Debug\UIForm.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\UIForm\obj\Debug\UIForm.UCInstrumento.resources

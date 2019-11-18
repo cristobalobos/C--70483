@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\InterfacesStudio\InterfacesStudio\bin\Debug\InterfacesStudio.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\InterfacesStudio\InterfacesStudio\bin\Debug\InterfacesStudio.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\InterfacesStudio\InterfacesStudio\bin\Debug\InterfacesStudio.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\InterfacesStudio\InterfacesStudio\obj\Debug\InterfacesStudio.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\InterfacesStudio\InterfacesStudio\obj\Debug\InterfacesStudio.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\InterfacesStudio\InterfacesStudio\obj\Debug\InterfacesStudio.pdb

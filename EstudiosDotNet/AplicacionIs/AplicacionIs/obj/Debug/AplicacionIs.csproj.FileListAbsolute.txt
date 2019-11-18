@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AplicacionIs\AplicacionIs\bin\Debug\AplicacionIs.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AplicacionIs\AplicacionIs\bin\Debug\AplicacionIs.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AplicacionIs\AplicacionIs\bin\Debug\AplicacionIs.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AplicacionIs\AplicacionIs\obj\Debug\AplicacionIs.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AplicacionIs\AplicacionIs\obj\Debug\AplicacionIs.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\AplicacionIs\AplicacionIs\obj\Debug\AplicacionIs.pdb

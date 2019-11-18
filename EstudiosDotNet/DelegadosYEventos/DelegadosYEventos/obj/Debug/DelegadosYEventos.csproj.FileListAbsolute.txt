@@ -1,0 +1,13 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\bin\Debug\DelegadosYEventos.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\obj\Debug\DelegadosYEventos.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\bin\Debug\DelegadosYEventos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\bin\Debug\DelegadosYEventos.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\obj\Debug\DelegadosYEventos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\obj\Debug\DelegadosYEventos.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\bin\Debug\DelegadosYEventos.exe.config
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\bin\Debug\DelegadosYEventos.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\bin\Debug\DelegadosYEventos.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\obj\Debug\DelegadosYEventos.csprojAssemblyReference.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\obj\Debug\DelegadosYEventos.csproj.CoreCompileInputs.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\obj\Debug\DelegadosYEventos.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\DelegadosYEventos\DelegadosYEventos\obj\Debug\DelegadosYEventos.pdb

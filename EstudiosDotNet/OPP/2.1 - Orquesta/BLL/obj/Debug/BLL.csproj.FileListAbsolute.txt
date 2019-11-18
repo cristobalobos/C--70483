@@ -1,0 +1,10 @@
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\bin\Debug\BLL.dll.config
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\bin\Debug\BLL.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\bin\Debug\BLL.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\bin\Debug\DAL.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\bin\Debug\DAL.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\bin\Debug\ModeloDatos.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\obj\Debug\BLL.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\obj\Debug\BLL.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\BLL\bin\Debug\ModeloDatos.dll

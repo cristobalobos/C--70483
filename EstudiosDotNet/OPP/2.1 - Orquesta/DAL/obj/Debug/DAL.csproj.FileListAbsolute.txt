@@ -1,0 +1,8 @@
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\bin\Debug\DAL.dll.config
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\bin\Debug\DAL.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\bin\Debug\DAL.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\bin\Debug\ModeloDatos.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\obj\Debug\DAL.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\obj\Debug\DAL.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\DAL\bin\Debug\ModeloDatos.dll

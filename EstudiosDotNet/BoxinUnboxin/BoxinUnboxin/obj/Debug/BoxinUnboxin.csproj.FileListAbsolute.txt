@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\BoxinUnboxin\BoxinUnboxin\bin\Debug\BoxinUnboxin.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\BoxinUnboxin\BoxinUnboxin\bin\Debug\BoxinUnboxin.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\BoxinUnboxin\BoxinUnboxin\bin\Debug\BoxinUnboxin.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\BoxinUnboxin\BoxinUnboxin\obj\Debug\BoxinUnboxin.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\BoxinUnboxin\BoxinUnboxin\obj\Debug\BoxinUnboxin.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\BoxinUnboxin\BoxinUnboxin\obj\Debug\BoxinUnboxin.pdb

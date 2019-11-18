@@ -1,0 +1,5 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\FuenteDeEventos\bin\Debug\FuenteDeEventos.dll
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\FuenteDeEventos\bin\Debug\FuenteDeEventos.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\FuenteDeEventos\obj\Debug\FuenteDeEventos.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\FuenteDeEventos\obj\Debug\FuenteDeEventos.dll
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\FuenteDeEventos\obj\Debug\FuenteDeEventos.pdb

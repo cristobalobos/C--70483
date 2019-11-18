@@ -1,0 +1,18 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\ConsumidorDeEventos.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\ConsumidorDeEventos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\ConsumidorDeEventos.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\FuenteDeEventos.dll
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\FuenteDeEventos.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\ConsumidorDeEventos.exe.config
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\ConsumidorDeEventos.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\ConsumidorDeEventos.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\FuenteDeEventos.dll
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\bin\Debug\FuenteDeEventos.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.csprojAssemblyReference.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.csproj.CopyComplete
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\EjemploDelegados\ConsumidorDeEventos\obj\Debug\ConsumidorDeEventos.pdb

@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Directorios\Directorios\bin\Debug\Directorios.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Directorios\Directorios\bin\Debug\Directorios.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Directorios\Directorios\bin\Debug\Directorios.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Directorios\Directorios\obj\Debug\Directorios.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Directorios\Directorios\obj\Debug\Directorios.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Directorios\Directorios\obj\Debug\Directorios.pdb

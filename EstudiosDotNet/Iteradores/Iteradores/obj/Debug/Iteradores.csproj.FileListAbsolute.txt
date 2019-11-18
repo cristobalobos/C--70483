@@ -1,0 +1,13 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Iteradores\Iteradores\bin\Debug\Iteradores.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Iteradores\Iteradores\bin\Debug\Iteradores.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Iteradores\Iteradores\bin\Debug\Iteradores.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Iteradores\Iteradores\obj\Debug\Iteradores.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Iteradores\Iteradores\obj\Debug\Iteradores.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Iteradores\Iteradores\obj\Debug\Iteradores.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Iteradores\Iteradores\bin\Debug\Iteradores.exe.config
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Iteradores\Iteradores\bin\Debug\Iteradores.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Iteradores\Iteradores\bin\Debug\Iteradores.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Iteradores\Iteradores\obj\Debug\Iteradores.csprojAssemblyReference.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Iteradores\Iteradores\obj\Debug\Iteradores.csproj.CoreCompileInputs.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Iteradores\Iteradores\obj\Debug\Iteradores.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\Iteradores\Iteradores\obj\Debug\Iteradores.pdb

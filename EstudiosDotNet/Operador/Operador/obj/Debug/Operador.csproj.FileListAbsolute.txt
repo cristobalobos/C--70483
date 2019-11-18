@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Operador\Operador\bin\Debug\Operador.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Operador\Operador\bin\Debug\Operador.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Operador\Operador\bin\Debug\Operador.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Operador\Operador\obj\Debug\Operador.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Operador\Operador\obj\Debug\Operador.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\Operador\Operador\obj\Debug\Operador.pdb

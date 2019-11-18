@@ -1,0 +1,6 @@
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\ModeloDatos\bin\Debug\ModeloDatos.dll.config
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\Cristobal Lobos\Documents\Visual Studio 2015\Projects\OPP\2.1 - Orquesta\ModeloDatos\obj\Debug\ModeloDatos.csprojResolveAssemblyReference.cache

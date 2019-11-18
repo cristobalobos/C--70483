@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\yield\yield\bin\Debug\yield.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\yield\yield\obj\Debug\yield.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\yield\yield\bin\Debug\yield.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\yield\yield\bin\Debug\yield.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\yield\yield\obj\Debug\yield.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\yield\yield\obj\Debug\yield.pdb

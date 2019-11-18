@@ -1,0 +1,6 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CrearCarpetaYArchivo\CrearCarpetaYArchivo\bin\Debug\CrearCarpetaYArchivo.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CrearCarpetaYArchivo\CrearCarpetaYArchivo\bin\Debug\CrearCarpetaYArchivo.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CrearCarpetaYArchivo\CrearCarpetaYArchivo\bin\Debug\CrearCarpetaYArchivo.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CrearCarpetaYArchivo\CrearCarpetaYArchivo\obj\Debug\CrearCarpetaYArchivo.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CrearCarpetaYArchivo\CrearCarpetaYArchivo\obj\Debug\CrearCarpetaYArchivo.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\CrearCarpetaYArchivo\CrearCarpetaYArchivo\obj\Debug\CrearCarpetaYArchivo.pdb

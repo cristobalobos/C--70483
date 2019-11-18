@@ -1,0 +1,13 @@
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.exe.config
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.pdb
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\obj\Debug\MiembrosEstaticos.csprojResolveAssemblyReference.cache
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\obj\Debug\MiembrosEstaticos.exe
+c:\users\cristobal lobos\documents\visual studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\obj\Debug\MiembrosEstaticos.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.exe.config
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.pdb
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\obj\Debug\MiembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\obj\Debug\MiembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\obj\Debug\MiembrosEstaticos.exe
+C:\Users\clt_9\Desktop\Visual Studio 2015\Projects\MiembrosEstaticos\MiembrosEstaticos\obj\Debug\MiembrosEstaticos.pdb
