@@ -21,8 +21,6 @@ Describir la sintaxis fundamental y características de C#
 * Lectura de archivos
 * Conceptos generales de la programacion orientada a objetos OPP
 
-/*******************************************************************************************/
-
 Studies carried out for the process of obtaining the "Programming C #" certification
 
 https://www.microsoft.com/es-es/learning/exam-70-483.aspx
@@ -44,4 +42,3 @@ Describe the fundamental syntax and characteristics of C #
 * Reading files
 * General concepts of OPP object oriented programming
 
-/ ************************************************* ****************************************** /
